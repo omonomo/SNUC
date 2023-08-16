@@ -5,7 +5,7 @@
 
 ![PCB](./images/PCB.png)  
 ![Plate](./images/Plate.png)  
-![Side](./images/Side.png)  
+![Side](./images/Side.jpg)  
 
 ## 名称の由来
 
